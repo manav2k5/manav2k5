@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @manav2k5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m Manav
+-  🎓 B.Sc. Data Science student at Christ University
 
-<!---
-manav2k5/manav2k5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Let's Collaborate
+
+I'm open to contributing to:
+- Full-stack web or desktop apps
+- Cybersecurity research tools or simulations
+- Open-source systems with a focus on performance, scalability, or security
+
+If you’re working on a project that aligns with my interests, feel free to reach out!
+
+Contact Me: 
+Email: [manav2k5@outlook.com]
